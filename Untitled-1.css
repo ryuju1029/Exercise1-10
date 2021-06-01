@@ -34,21 +34,21 @@ main {
 }
 
 .img1 {
-  background-image: url(../chapter9/img/flow01.png);
+  background-image: url(img/flow01.png);
   height: 150px;
   background-size: cover;
   background-position: bottom;
   }
 
 .img2 {
-  background-image: url(../chapter9/img/flow02.png);
+  background-image: url(img/flow02.png);
   height: 150px;
   background-size: cover;
   background-position: bottom;
 }
 
 .img3 {
-  background-image: url(../chapter9/img/flow03.png);
+  background-image: url(img/flow03.png);
   height: 150px;
   background-size: cover;
   background-position: bottom;
